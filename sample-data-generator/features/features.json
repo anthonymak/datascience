@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "str",
+    "Desc": "Station",
+    "Values": [
+      "SYD|-33.86,151.21,39",
+      "MEL|-37.83,144.98,7",
+      "ADL|-34.92,138.62,48",
+      "PER|-31.95,115.86,20",
+      "DRW|-12.46,130.84,31",
+      "HBA|-42.88,147.32,4",
+      "JFK|40.71,-74.01,4",
+      "SFO|37.77,-122.41,4",
+      "LHR|51.50,-0.12,25",
+      "TYO|35.68,139.69,11",
+      "PEK|39.90,116.40,35"
+    ]
+  },
+  {
+    "Type": "datetime",
+    "Desc": "Time",
+    "Values": {
+      "StartDate": "2015-12-23T05:02:12Z",
+      "IntervalMS": 600000
+    }
+  },
+  {
+    "Type": "float",
+    "Desc": "Temperature in Celcius",
+    "Values": {
+      "Mean": 15,
+      "Std": 10
+    }
+  },
+  {
+    "Type": "float",
+    "Desc": "Pressure in hPa",
+    "Values": {
+      "Mean": 1050,
+      "Std": 40
+    }
+  },
+  {
+    "Type": "float",
+    "Desc": "Humidity %",
+    "Values": {
+      "Mean": 50,
+      "Std": 15
+    }
+  }
+]
